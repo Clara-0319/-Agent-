@@ -27,7 +27,6 @@
 ![匹配结果](marrige_match/pic/评价结果1.png)
 ![匹配结果](marrige_match/pic/评价结果2.png)
 
-> 替换方法：把你的截图上传到GitHub，右键复制图片链接，替换上面链接即可
 
 ---
 
