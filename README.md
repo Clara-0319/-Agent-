@@ -21,7 +21,7 @@
 ## 🖼️ 项目可视化展示（直接点开就能看到效果）
 
 ### 1. 主界面（多模态输入）
-![主界面](https://placehold.co/800x400/lightblue/white?text=主界面：文字+图片上传)
+![主界面](marrige_match/pic/主页面.png)
 
 ### 2. 匹配结果页（可视化评分+报告）
 ![匹配结果](https://placehold.co/800x400/green/white?text=AI匹配结果：分数+图表+建议)
