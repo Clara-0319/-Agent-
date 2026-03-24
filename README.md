@@ -24,7 +24,8 @@
 ![主界面](marrige_match/pic/主页面.png)
 
 ### 2. 匹配结果页（可视化评分+报告）
-![匹配结果](https://placehold.co/800x400/green/white?text=AI匹配结果：分数+图表+建议)
+![匹配结果](marrige_match/pic/评价结果1.png)
+![匹配结果](marrige_match/pic/评价结果2.png)
 
 > 替换方法：把你的截图上传到GitHub，右键复制图片链接，替换上面链接即可
 
